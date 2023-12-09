@@ -37,6 +37,7 @@ int main(){
     int b=digsum(n);
     if(a==b) cout<<1<<endl;
     else cout<<0<<endl;
+    cout<<endl;
 
 
     
